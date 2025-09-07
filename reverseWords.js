@@ -17,4 +17,3 @@ function reverse(string) {
     .join(" ");
 }
 console.log(reverse("This is an  - example!"));
- 
